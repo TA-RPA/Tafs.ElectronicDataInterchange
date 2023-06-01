@@ -1,0 +1,15 @@
+<Project Sdk="Remora.Sdk/2.0.1">
+
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <Description>
+      This contains all of the EDI X12I (Transportation) Transaction Sets.
+    </Description>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Tafs.EDI.Core\Tafs.EDI.Core.csproj" />
+  </ItemGroup>
+  
+</Project>

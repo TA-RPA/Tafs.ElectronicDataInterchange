@@ -1,10 +1,10 @@
 <Project>
 
 	<PropertyGroup>
-		<LegalAuthor>Silvenga;gamingrobot;Foxtrek_64</LegalAuthor>
-    <LegalEmail>https://github.com/Silvenga/EdiWeave/</LegalEmail>
-    <Company>EdiWeave</Company>
-    <LegalCopyrightHolder>EdiWeave</LegalCopyrightHolder>
+		<LegalAuthor>Devin Duanne</LegalAuthor>
+    <LegalEmail>dduanne@tafs.com</LegalEmail>
+    <Company>Tafs, LLC.</Company>
+    <LegalCopyrightHolder>Tafs, LLC.</LegalCopyrightHolder>
 	</PropertyGroup>
 
 	<PropertyGroup>
@@ -13,12 +13,11 @@
 
   <PropertyGroup>
     <RepositoryBranch>main</RepositoryBranch>
-    <RepositoryUrl>https://github.com/Silvenga/EdiWeave/</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Foxtrek64/Tafs.ElectronicDataInterchange.git</RepositoryUrl>
 
-    <PackageProjectUrl>https://ediweave.net/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Foxtrek64/Tafs.ElectronicDataInterchange.git</PackageProjectUrl>
     <PackageOutputPath>$(SolutionDir)/nuget</PackageOutputPath>
-    <PackageTags>TAFS;.NET-EDI-Framework;EDIFACT;X12;HIPAA;EANCOM</PackageTags>
-    <PackageIcon>https://raw.githubusercontent.com/Silvenga/EdiWeave/master/Assets/nuget-logo.png</PackageIcon>
+    <PackageTags>TAFS;EDIFACT;X12;HIPAA;EANCOM</PackageTags>
   </PropertyGroup>
 
 </Project>
